@@ -43,3 +43,9 @@ print(c)
 print(type(a))
 print(type(b))
 print(type(c))
+
+
+# just to print a random number
+import random
+
+print(random.randrange(1, 100))
