@@ -1,0 +1,2 @@
+print("friends");
+print("reds")
