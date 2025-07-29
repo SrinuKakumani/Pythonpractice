@@ -15,3 +15,6 @@ print(len(a))
 x = "This is Srinu Kakumani from Kandukur"
 print("free" in x)
 
+# To specify the start index and the end index
+x = "Hello, World!"
+print(x[3:5]);
