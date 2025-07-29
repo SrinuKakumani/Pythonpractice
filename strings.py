@@ -18,3 +18,11 @@ print("free" in x)
 # To specify the start index and the end index
 x = "Hello, World!"
 print(x[3:5]);
+
+# TO start from the beginning
+x="This is Srinu Kakumani from Kandukur";
+print(x[:7]);
+
+# To end at the end
+x = "Hi there, how are you doing today?";
+print(x[7:]);
